@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop version="2.0" date="2026-03-09 21:03">
+  <name>Ультрасаунд-Мед</name>
+  <company>ООО Ультрасаунд-Мед</company>
+  <url>https://ultrasound-med.ru</url>
+  <email>ultrasoundmed@gmail.com</email>
+  <picture>https://static.tildacdn.com/tild6532-3431-4962-b735-353334613761/logosite.png</picture>
+  <doctors>
+    <doctor id="Akmadullina-1">
+      <name>Ахмадуллина Марина Константиновна</name>
+      <url>https://ultrasound-med.ru/ahmadullina-marina-konstantinovna</url>
+      <picture>https://static.tildacdn.com/tild3762-6263-4236-b261-653562646562/photo.png</picture>
+      <description>врач УЗИ и акушер-гинеколог с опытом более 34 лет. Эксперт пренатальной диагностики, сертификат Fetal Medicine Foundation, стажировка в Швейцарии. Экспертное УЗИ при беременности, 3D/4D УЗИ, гинекологическое УЗИ.</description>
+      <experience_years>40</experience_years>
+      <surname>Ахмадуллина</surname>
+      <first_name>Марина</first_name>
+      <patronymic>Константиновна</patronymic>
+      <reviews_total_count>5</reviews_total_count>
+      <category>Высшая</category>
+    </doctor>
+    <doctor id="Labygina-1">
+      <name>Лабыгина Зимфира Юрисовна</name>
+      <url>https://ultrasound-med.ru/labygina-zimfira-urisovna</url>
+      <picture>https://static.tildacdn.com/tild6432-3537-4537-a636-376136303061/labygina-250.png</picture>
+      <description>Врач УЗД высшей категории, акушер-гинеколог с опытом более 30 лет. Одна из первых врачей Башкортостана, освоивших УЗИ-диагностику. Бывший главный специалист по пренатальной диагностике Минздрава РБ. Эксперт по выявлению врождённых пороков развития плода. Главный врач центра Ультрасаунд-Мед, Уфа.</description>
+      <experience_years>40</experience_years>
+      <surname>Лабыгина</surname>
+      <first_name>Зимфира</first_name>
+      <patronymic>Юрисовна</patronymic>
+      <reviews_total_count>5</reviews_total_count>
+      <category>Высшая</category>
+    </doctor>
+    <doctor id="bulygina-1">
+      <name>Булыгина Елена Леонидовна</name>
+      <url>https://ultrasound-med.ru/bulygina-elena-leonidovna</url>
+      <picture>https://static.tildacdn.com/tild6537-6332-4239-b732-356166353635/IMG_3753.png</picture>
+      <description>Врач УЗД, кандидат медицинских наук. Более 20 лет занимается исключительно ультразвуковой диагностикой — выявление опухолей, пороков развития плода, профессиональное 4D УЗИ. Научно-преподавательский опыт, обучение в Санкт-Петербурге</description>
+      <experience_years>25</experience_years>
+      <surname>Булыгина</surname>
+      <first_name>Елена</first_name>
+      <patronymic>Леонидовна</patronymic>
+      <reviews_total_count>5</reviews_total_count>
+      <degree>Кандидат наук</degree>
+    </doctor>
+    <doctor id="turyanova-1">
+      <name>Турьянова Регина Борисовна</name>
+      <url>https://ultrasound-med.ru/turyanova-regina-borisovna</url>
+      <picture>https://static.tildacdn.com/tild6135-3565-4266-b662-643833373764/labygina-2520.png</picture>
+      <description>Врач УЗД и акушер-гинеколог с опытом более 25 лет. Специализируется исключительно на УЗИ — пренатальная диагностика, выявление пороков развития плода, 3D/4D УЗИ, патологии ЖКТ и онкодиагностика. Обучение в Москве, Греции, международные конференции</description>
+      <experience_years>25</experience_years>
+      <surname>Турьянова</surname>
+      <first_name>Регина</first_name>
+      <patronymic>Борисовна</patronymic>
+      <reviews_total_count>5</reviews_total_count>
+    </doctor>
+  </doctors>
+  <clinics>
+    <clinic id="clinic_1">
+      <name>Медицинский Центр Ультрасаунд-Мед</name>
+      <url>https://ultrasound-med.ru</url>
+      <email>ultrasoundmed@gmail.com</email>
+      <city>Уфа</city>
+      <address>ул.Свердлова 62</address>
+      <picture>https://static.tildacdn.com/tild6532-3431-4962-b735-353334613761/logosite.png</picture>
+    </clinic>
+    <clinic id="clinic_2">
+      <name>Медицинский Центр Ультрасаунд-Мед</name>
+      <url>https://ultrasound-med.ru</url>
+      <email>ultrasoundmed@gmail.com</email>
+      <city>Уфа</city>
+      <address>ул.Невского 8</address>
+      <picture>https://static.tildacdn.com/tild6532-3431-4962-b735-353334613761/logosite.png</picture>
+    </clinic>
+  </clinics>
+  <services>
+    <service id="service_1">
+      <name>УЗИ при беременности</name>
+      <description>УЗИ при беременности любые сроки</description>
+    </service>
+    <service id="service_2">
+      <name>Допплерография плода</name>
+      <description>УЗИ допплер оценка кровотока матери и плода</description>
+    </service>
+    <service id="service_3">
+      <name>УЗИ скрининги</name>
+      <description>любые скрининги беременных</description>
+    </service>
+    <service id="service_4">
+      <name>УЗИ малого таза</name>
+      <description>Гинекологическое УЗИ</description>
+    </service>
+    <service id="service_5">
+      <name>УЗИ брюшной полости</name>
+      <description>УЗИ печени, селезенки, желчного пузыря, поджелудочной железы</description>
+    </service>
+    <service id="service_6">
+      <name>УЗИ молочных желез</name>
+      <description>Исследование помогает обнаружить кисты, фиброаденомы, признаки мастопатии, воспалительные процессы и онкологические изменения тканей молочной железы.</description>
+    </service>
+    <service id="service_7">
+      <name>УЗИ предстательной железы</name>
+      <description>УЗИ предстательной железы для выявления простатита, аденомы и других заболеваний.</description>
+    </service>
+    <service id="service_8">
+      <name>УЗИ щитовидной железы</name>
+      <description>УЗИ выявления заболеваний щитовидной железы: аутоиммунных поражениях, узловом зобе, опухоли, подостром или остром тиреоидите и некоторых других</description>
+    </service>
+    <service id="service_9">
+      <name>УЗИ предлежащей части плода</name>
+      <description>УЗИ для оценки Положение малыша, состояние плаценты и пуповины</description>
+    </service>
+    <service id="service_10">
+      <name>УЗИ ранних сроков беременности</name>
+      <description>УЗИ для оценки сердцебиения эмбриона и исключения риска внематочной беременности</description>
+    </service>
+    <service id="service_11">
+      <name>УЗИ 3D/4D</name>
+      <description>Экспертное УЗИ плода на все сроках</description>
+    </service>
+  </services>
+  <offers>
+  <offer id="offer_1">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2500</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_1"/>
+    <clinic id="clinic_1">
+      <doctor id="Akmadullina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_2">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2000</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_2"/>
+    <clinic id="clinic_1">
+      <doctor id="Akmadullina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_3">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2000</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_4"/>
+    <clinic id="clinic_1">
+      <doctor id="Akmadullina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_4">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2500</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_1"/>
+    <clinic id="clinic_2">
+      <doctor id="Labygina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_5">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2000</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_2"/>
+    <clinic id="clinic_2">
+      <doctor id="Labygina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_6">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2500</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_4"/>
+    <clinic id="clinic_2">
+      <doctor id="Labygina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_7">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>3000</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_3"/>
+    <clinic id="clinic_2">
+      <doctor id="Labygina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_8">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2000</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_6"/>
+    <clinic id="clinic_2">
+      <doctor id="Labygina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_9">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2000</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_7"/>
+    <clinic id="clinic_1">
+      <doctor id="bulygina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_10">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2500</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_5"/>
+    <clinic id="clinic_1">
+      <doctor id="bulygina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_11">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2500</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_11"/>
+    <clinic id="clinic_1">
+      <doctor id="bulygina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_12">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2000</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_8"/>
+    <clinic id="clinic_1">
+      <doctor id="bulygina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_13">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>3000</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_3"/>
+    <clinic id="clinic_1">
+      <doctor id="bulygina-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_14">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2000</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_9"/>
+    <clinic id="clinic_2">
+      <doctor id="turyanova-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_15">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2300</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_5"/>
+    <clinic id="clinic_2">
+      <doctor id="turyanova-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_16">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2000</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_10"/>
+    <clinic id="clinic_2">
+      <doctor id="turyanova-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  <offer id="offer_17">
+    <url>https://ultrasound-med.ru/#rec2003769831</url>
+    <appointment>true</appointment>
+    <oms>false</oms>
+    <online_schedule>false</online_schedule>
+    <price>
+      <base_price>2500</base_price>
+      <currency>RUR</currency>
+    </price>
+    <service id="service_1"/>
+    <clinic id="clinic_2">
+      <doctor id="turyanova-1">
+        <speciality>узи-специалист</speciality>
+        <adult_appointment>true</adult_appointment>
+        <children_appointment>false</children_appointment>
+      </doctor>
+    </clinic>
+  </offer>
+  </offers>
+</shop>
